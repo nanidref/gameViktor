@@ -1,0 +1,2748 @@
+fileFormatVersion: 2
+guid: bc08a51fda2253a47b5eb9730f46b68b
+timeCreated: 1481442715
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomen1
+    100002: abdomen2
+    100004: abdomen3
+    100006: angkleIK_L
+    100008: angkleIK_R
+    100010: arm_lower_L
+    100012: arm_lower_L_001
+    100014: arm_lower_R
+    100016: arm_lower_R_001
+    100018: arm_upper_L
+    100020: arm_upper_L_001
+    100022: arm_upper_R
+    100024: arm_upper_R_001
+    100026: Armature
+    100028: axe
+    100030: axe_0
+    100032: fi1_L
+    100034: fi1_L_001
+    100036: fi1_R
+    100038: fi1_R_001
+    100040: fi2_L
+    100042: fi2_L_001
+    100044: fi2_R
+    100046: fi2_R_001
+    100048: fi3_L
+    100050: fi3_L_001
+    100052: fi3_R
+    100054: fi3_R_001
+    100056: fm1_L
+    100058: fm1_L_001
+    100060: fm1_R
+    100062: fm1_R_001
+    100064: fm2_L
+    100066: fm2_L_001
+    100068: fm2_R
+    100070: fm2_R_001
+    100072: fm3_L
+    100074: fm3_L_001
+    100076: fm3_R
+    100078: fm3_R_001
+    100080: foot_controller_L
+    100082: foot_controller_R
+    100084: foot_L
+    100086: foot_R
+    100088: hand_L
+    100090: hand_L_001
+    100092: hand_R
+    100094: hand_R_001
+    100096: head
+    100098: hips
+    100100: kurior
+    100102: //RootNode
+    100104: kurior_controller
+    100106: leg_lower_L
+    100108: leg_lower_R
+    100110: leg_upper_L
+    100112: leg_upper_R
+    100114: neck
+    100116: pelvis
+    100118: ribs
+    100120: Shoulder_L
+    100122: Shoulder_L_001
+    100124: Shoulder_R
+    100126: Shoulder_R_001
+    100128: spine
+    100130: thumb1_L
+    100132: thumb1_L_001
+    100134: thumb1_R
+    100136: thumb1_R_001
+    100138: thumb2_L
+    100140: thumb2_L_001
+    100142: thumb2_R
+    100144: thumb2_R_001
+    100146: thumb3_L
+    100148: thumb3_L_001
+    100150: thumb3_R
+    100152: thumb3_R_001
+    100154: toes_L
+    100156: toes_R
+    100158: wingI_L
+    100160: wingI_R
+    100162: wingo1_L
+    100164: wingo1_R
+    100166: wingO2_L
+    100168: wingO2_R
+    400000: abdomen1
+    400002: abdomen2
+    400004: abdomen3
+    400006: angkleIK_L
+    400008: angkleIK_R
+    400010: arm_lower_L
+    400012: arm_lower_L_001
+    400014: arm_lower_R
+    400016: arm_lower_R_001
+    400018: arm_upper_L
+    400020: arm_upper_L_001
+    400022: arm_upper_R
+    400024: arm_upper_R_001
+    400026: Armature
+    400028: axe
+    400030: axe_0
+    400032: fi1_L
+    400034: fi1_L_001
+    400036: fi1_R
+    400038: fi1_R_001
+    400040: fi2_L
+    400042: fi2_L_001
+    400044: fi2_R
+    400046: fi2_R_001
+    400048: fi3_L
+    400050: fi3_L_001
+    400052: fi3_R
+    400054: fi3_R_001
+    400056: fm1_L
+    400058: fm1_L_001
+    400060: fm1_R
+    400062: fm1_R_001
+    400064: fm2_L
+    400066: fm2_L_001
+    400068: fm2_R
+    400070: fm2_R_001
+    400072: fm3_L
+    400074: fm3_L_001
+    400076: fm3_R
+    400078: fm3_R_001
+    400080: foot_controller_L
+    400082: foot_controller_R
+    400084: foot_L
+    400086: foot_R
+    400088: hand_L
+    400090: hand_L_001
+    400092: hand_R
+    400094: hand_R_001
+    400096: head
+    400098: hips
+    400100: kurior
+    400102: //RootNode
+    400104: kurior_controller
+    400106: leg_lower_L
+    400108: leg_lower_R
+    400110: leg_upper_L
+    400112: leg_upper_R
+    400114: neck
+    400116: pelvis
+    400118: ribs
+    400120: Shoulder_L
+    400122: Shoulder_L_001
+    400124: Shoulder_R
+    400126: Shoulder_R_001
+    400128: spine
+    400130: thumb1_L
+    400132: thumb1_L_001
+    400134: thumb1_R
+    400136: thumb1_R_001
+    400138: thumb2_L
+    400140: thumb2_L_001
+    400142: thumb2_R
+    400144: thumb2_R_001
+    400146: thumb3_L
+    400148: thumb3_L_001
+    400150: thumb3_R
+    400152: thumb3_R_001
+    400154: toes_L
+    400156: toes_R
+    400158: wingI_L
+    400160: wingI_R
+    400162: wingo1_L
+    400164: wingo1_R
+    400166: wingO2_L
+    400168: wingO2_R
+    4300000: axe
+    4300002: kurior
+    7400000: Default Take
+    7400002: attack
+    7400004: dead
+    7400006: exo_body
+    7400008: hit
+    7400010: idle_battle
+    7400012: move
+    7400014: stridulating
+    7400016: wreck_it_fix
+    9500000: //RootNode
+    13700000: axe
+    13700002: kurior
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: attack
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dead
+      takeName: dead
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: exo_body
+      takeName: exo_body
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: hit
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_battle
+      takeName: idle_battle
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move
+      takeName: move
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stridulating
+      takeName: stridulating
+      firstFrame: -1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wreck_it_fix
+      takeName: wreck_it_fix
+      firstFrame: -1
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/kurior_controller
+        weight: 1
+      - path: Armature/kurior_controller/foot_controller_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/kurior_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/kurior_controller/hips
+        weight: 1
+      - path: Armature/kurior_controller/hips/abdomen1
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2
+        weight: 0
+      - path: Armature/kurior_controller/hips/abdomen1/abdomen2/abdomen3
+        weight: 0
+      - path: Armature/kurior_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/thumb1_L/thumb2_L/thumb3_L
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fi1_L_001/fi2_L_001/fi3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/fm1_L_001/fm2_L_001/fm3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_L_001/arm_upper_L_001/arm_lower_L_001/hand_L_001/thumb1_L_001/thumb2_L_001/thumb3_L_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/axe_0
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/thumb1_R/thumb2_R/thumb3_R
+        weight: 1
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fi1_R_001/fi2_R_001/fi3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/fm1_R_001/fm2_R_001/fm3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/Shoulder_R_001/arm_upper_R_001/arm_lower_R_001/hand_R_001/thumb1_R_001/thumb2_R_001/thumb3_R_001
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingI_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_L/wingO2_L
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R
+        weight: 0
+      - path: Armature/kurior_controller/hips/pelvis/spine/ribs/wingo1_R/wingO2_R
+        weight: 0
+      - path: axe
+        weight: 0
+      - path: kurior
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: kurior_controller
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_upper_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_upper_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_lower_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_lower_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pelvis
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ribs
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm_upper_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm_upper_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm_lower_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arm_lower_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fi1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fi2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fi3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fm1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fm2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fm3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: thumb3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fi1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fi2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fi3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fm1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fm2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: fm3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: kurior_animate(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: kurior_animate(Clone)
+      position: {x: -0, y: 0.00045723046, z: -0.09671802}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.1142606, y: 1.1142606, z: 1.1142606}
+    - name: kurior_controller
+      parentName: Armature
+      position: {x: -0, y: 0, z: -0.00091326237}
+      rotation: {x: -0, y: -0, z: -0.7070754, w: 0.7071381}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_controller_L
+      parentName: kurior_controller
+      position: {x: -0.004311407, y: -0.32001328, z: 0.074956626}
+      rotation: {x: 0.7044787, y: -0.07862084, z: -0.70129883, w: 0.07555559}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: foot_L
+      parentName: foot_controller_L
+      position: {x: -0.20927685, y: -0.0032232758, z: 0.019406727}
+      rotation: {x: -0.009373262, y: -0.3025841, z: 0.026884742, w: -0.9526974}
+      scale: {x: 1.0000038, y: 1.0000037, z: 1.0000055}
+    - name: toes_L
+      parentName: foot_L
+      position: {x: 0.0056672953, y: 0.0016444633, z: -0.013182319}
+      rotation: {x: -0.25993055, y: -0.5836074, z: -0.72136176, w: 0.26734993}
+      scale: {x: 1.0000014, y: 1.0000011, z: 1.0000011}
+    - name: angkleIK_L
+      parentName: foot_L
+      position: {x: -0.095495015, y: 0.000000007450581, z: 0.000000007450581}
+      rotation: {x: 0.89080536, y: -0.04034731, z: -0.4471618, w: -0.069886126}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1.0000002}
+    - name: foot_controller_R
+      parentName: kurior_controller
+      position: {x: -0.004464908, y: 0.21339205, z: -0.18942289}
+      rotation: {x: 0.69419634, y: -0.14848515, z: -0.6880306, w: 0.15052402}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: foot_R
+      parentName: foot_controller_R
+      position: {x: -0.20927685, y: 0.003223372, z: 0.019406725}
+      rotation: {x: 0.08719849, y: 0.2885161, z: -0.27609536, w: 0.9126479}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.0000013}
+    - name: toes_R
+      parentName: foot_R
+      position: {x: 0.0056673074, y: -0.0016444591, z: -0.01318232}
+      rotation: {x: -0.25993052, y: 0.5836073, z: -0.72136164, w: -0.2673499}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000006}
+    - name: angkleIK_R
+      parentName: foot_R
+      position: {x: -0.095495, y: 0.000000020489097, z: 0.000000007450581}
+      rotation: {x: -0.8908054, y: -0.040347185, z: 0.44716185, w: -0.06988608}
+      scale: {x: 1.0000012, y: 1.0000013, z: 1.0000005}
+    - name: hips
+      parentName: kurior_controller
+      position: {x: -0.66424215, y: 0.00000004891285, z: 0.07978958}
+      rotation: {x: 0.00004848837, y: 0.7138671, z: -0.0000031595114, w: -0.7002812}
+      scale: {x: 0.9999932, y: 0.99998426, z: 0.99965966}
+    - name: pelvis
+      parentName: hips
+      position: {x: -0.11463628, y: 0.000000012537242, z: 0.0068447273}
+      rotation: {x: -0.00000012670351, y: -0.9999281, z: 0.00000018824718, w: -0.011991141}
+      scale: {x: 0.9999981, y: 1.0000006, z: 0.99967986}
+    - name: spine
+      parentName: pelvis
+      position: {x: -0.16101901, y: 0.000000009778887, z: 0.000000008614734}
+      rotation: {x: 0.105070226, y: 0.23655835, z: 0.016566122, w: 0.9657774}
+      scale: {x: 0.99954146, y: 0.99999714, z: 0.99980956}
+    - name: ribs
+      parentName: spine
+      position: {x: -0.20066388, y: 0.000000014384341, z: 0.000000019597202}
+      rotation: {x: -0.101507775, y: -0.09246219, z: -0.031786088, w: 0.99001855}
+      scale: {x: 0.99982053, y: 1.0000038, z: 1.0001799}
+    - name: neck
+      parentName: ribs
+      position: {x: -0.32675415, y: 0.000000018626451, z: 0.000000022351742}
+      rotation: {x: 0.000028245135, y: 0.0824148, z: 0.000048191025, w: 0.9965982}
+      scale: {x: 0.8485961, y: 0.8487674, z: 0.8490289}
+    - name: head
+      parentName: neck
+      position: {x: -0.30111545, y: 0.000000035390258, z: -0.00000005599577}
+      rotation: {x: -0.0000000042724215, y: -0.15101773, z: 0.00000013733107, w: 0.98853105}
+      scale: {x: 1.1119828, y: 1.1117879, z: 1.1115952}
+    - name: wingo1_L
+      parentName: ribs
+      position: {x: -0.11366574, y: -0.09473672, z: -0.28920785}
+      rotation: {x: -0.43661243, y: -0.8080103, z: -0.2849486, w: 0.2743964}
+      scale: {x: 0.99997807, y: 1.00009, z: 0.9999294}
+    - name: wingO2_L
+      parentName: wingo1_L
+      position: {x: -0.5397151, y: 0.000000007450581, z: -0.000000014901161}
+      rotation: {x: 0.3474702, y: 0.0607775, z: -0.23676564, w: 0.9052694}
+      scale: {x: 1.0006108, y: 0.9993094, z: 1.0000817}
+    - name: wingI_L
+      parentName: ribs
+      position: {x: -0.12063758, y: -0.086575896, z: -0.2911597}
+      rotation: {x: -0.6733873, y: -0.7061608, z: -0.21493992, w: 0.041079164}
+      scale: {x: 0.3923593, y: 0.39264446, z: 0.39279863}
+    - name: Shoulder_L
+      parentName: ribs
+      position: {x: -0.2319383, y: -0.06823369, z: -0.032552242}
+      rotation: {x: -0.12012046, y: -0.090117544, z: 0.75183034, w: 0.6420288}
+      scale: {x: 0.9999853, y: 0.99977106, z: 1.0002434}
+    - name: arm_upper_L
+      parentName: Shoulder_L
+      position: {x: -0.18582708, y: 0.00000031106174, z: -0.00000009313226}
+      rotation: {x: -0.67114854, y: 0.023589099, z: -0.037392713, w: 0.74000347}
+      scale: {x: 0.9999899, y: 0.9999191, z: 0.99998343}
+    - name: arm_lower_L
+      parentName: arm_upper_L
+      position: {x: -0.40708083, y: 0.00000011920929, z: -0.000000029802322}
+      rotation: {x: -0.010937273, y: 0.028559, z: -0.006530077, w: 0.999511}
+      scale: {x: 1.0000455, y: 0.99973315, z: 1.0003693}
+    - name: hand_L
+      parentName: arm_lower_L
+      position: {x: -0.53142303, y: 0.000000070780516, z: 0}
+      rotation: {x: 0.026179308, y: -0.04847845, z: -0.024945568, w: 0.9981694}
+      scale: {x: 0.9999311, y: 1.0003247, z: 0.9997443}
+    - name: fm1_L
+      parentName: hand_L
+      position: {x: -0.081168614, y: 0.02557125, z: 0.0047443174}
+      rotation: {x: 0.7090055, y: -0.016522385, z: 0.0063003055, w: 0.70498127}
+      scale: {x: 0.9997201, y: 1.0002885, z: 0.999994}
+    - name: fm2_L
+      parentName: fm1_L
+      position: {x: -0.031448036, y: -0.000000034458935, z: -0.000000052154064}
+      rotation: {x: -0.00006902216, y: 0.0000009564679, z: -0.00000015273685, w: 1}
+      scale: {x: 1.0000792, y: 0.9999216, z: 1.0000008}
+    - name: fm3_L
+      parentName: fm2_L
+      position: {x: -0.03144841, y: 0.00000011269003, z: 0}
+      rotation: {x: -0.00000032782543, y: -0.00000011534463, z: -0.000002019115, w: 1}
+      scale: {x: 0.9999839, y: 1.0000166, z: 1.0000006}
+    - name: fi1_L
+      parentName: hand_L
+      position: {x: -0.08544629, y: -0.021565437, z: 0.0059809424}
+      rotation: {x: 0.7020476, y: -0.009150048, z: 0.026703516, w: 0.7115703}
+      scale: {x: 0.9997191, y: 1.0002687, z: 1.0000166}
+    - name: fi2_L
+      parentName: fi1_L
+      position: {x: -0.032591306, y: -0.000000030733645, z: -0.000000007450581}
+      rotation: {x: -0.000061988794, y: -0.00000044889723, z: 0.00000054482337, w: 1}
+      scale: {x: 1.0000937, y: 0.9999068, z: 1.0000004}
+    - name: fi3_L
+      parentName: fi2_L
+      position: {x: -0.032590996, y: -0.000000020489097, z: -0.000000052154064}
+      rotation: {x: -0.00000005960461, y: 0.00000031312496, z: -0.0000032381872, w: 1}
+      scale: {x: 0.9999807, y: 1.0000198, z: 1.0000004}
+    - name: thumb1_L
+      parentName: hand_L
+      position: {x: -0.028601805, y: -0.029369399, z: 0.0076543614}
+      rotation: {x: 0.57553655, y: 0.2471723, z: 0.29845157, w: 0.7201322}
+      scale: {x: 0.9998843, y: 0.9998832, z: 1.0002357}
+    - name: thumb2_L
+      parentName: thumb1_L
+      position: {x: -0.03452915, y: -0.000000014901161, z: 0.000000024214387}
+      rotation: {x: 0.0704568, y: -0.030713413, z: -0.0066755507, w: 0.9970195}
+      scale: {x: 0.99960136, y: 1.0001876, z: 1.0002134}
+    - name: thumb3_L
+      parentName: thumb2_L
+      position: {x: -0.04073129, y: 0.000000022351742, z: -0.000000022351742}
+      rotation: {x: 0.028095545, y: -0.079731725, z: -0.01274624, w: 0.99633884}
+      scale: {x: 0.9998526, y: 1.0000712, z: 1.0000762}
+    - name: Shoulder_R
+      parentName: ribs
+      position: {x: -0.23193829, y: 0.068233706, z: -0.03255228}
+      rotation: {x: -0.12012026, y: 0.0901178, z: 0.75183034, w: -0.642029}
+      scale: {x: 1.0000005, y: 0.99975306, z: 1.0002512}
+    - name: arm_upper_R
+      parentName: Shoulder_R
+      position: {x: -0.18582706, y: -0.00000039860606, z: -0.000000022351742}
+      rotation: {x: 0.67115366, y: 0.02361761, z: 0.037445728, w: 0.7399952}
+      scale: {x: 1.0002191, y: 0.99984217, z: 0.9999837}
+    - name: arm_lower_R
+      parentName: arm_upper_R
+      position: {x: -0.4070806, y: 0.000000044703484, z: -0.00000010430813}
+      rotation: {x: 0.010937183, y: 0.028558813, z: 0.006530096, w: 0.999511}
+      scale: {x: 0.9995893, y: 1.0002496, z: 0.99978006}
+    - name: hand_R
+      parentName: arm_lower_R
+      position: {x: -0.53142303, y: -0.000000011175871, z: 0.000000014901161}
+      rotation: {x: -0.026179243, y: -0.048478503, z: 0.024945641, w: 0.9981695}
+      scale: {x: 0.99987185, y: 0.9999532, z: 1.0001798}
+    - name: fm1_R
+      parentName: hand_R
+      position: {x: -0.08283931, y: -0.025666099, z: 0.0042759553}
+      rotation: {x: 0.7090056, y: 0.016522089, z: 0.0063003064, w: -0.70498127}
+      scale: {x: 0.9999793, y: 1.0000329, z: 0.99999434}
+    - name: fm2_R
+      parentName: fm1_R
+      position: {x: -0.031448055, y: -0.000000022817403, z: -0.000000006519258}
+      rotation: {x: 0.00006908175, y: 0.0000009303908, z: 0.00000028498457, w: 1}
+      scale: {x: 0.99997395, y: 1.0000294, z: 1.0000012}
+    - name: fm3_R
+      parentName: fm2_R
+      position: {x: -0.03144843, y: 0.00000005029142, z: 0.000000014901161}
+      rotation: {x: 0.00000017880656, y: -0.000000080885464, z: 0.0000020228372, w: 1}
+      scale: {x: 0.99998456, y: 1.0000174, z: 1.0000015}
+    - name: fi1_R
+      parentName: hand_R
+      position: {x: -0.084471874, y: 0.02158368, z: 0.006963568}
+      rotation: {x: 0.70204747, y: 0.009152201, z: 0.026705736, w: -0.7115704}
+      scale: {x: 0.9999802, y: 1.0000066, z: 1.0000178}
+    - name: fi2_R
+      parentName: fi1_R
+      position: {x: -0.0325913, y: 0.00000006472692, z: 0.000000007450581}
+      rotation: {x: 0.000061988794, y: -0.00000047218026, z: -0.00000063236763, w: 1}
+      scale: {x: 0.9999752, y: 1.000026, z: 1.0000008}
+    - name: fi3_R
+      parentName: fi2_R
+      position: {x: -0.03259112, y: 0.000000015832484, z: 0.000000007450581}
+      rotation: {x: 0.00000011921651, y: 0.00000033919645, z: 0.0000031487787, w: 1}
+      scale: {x: 0.99998546, y: 1.0000165, z: 1.0000004}
+    - name: thumb1_R
+      parentName: hand_R
+      position: {x: -0.028601805, y: 0.029369447, z: 0.0076544173}
+      rotation: {x: -0.57553667, y: 0.24717256, z: -0.2984517, w: 0.7201319}
+      scale: {x: 0.9997575, y: 0.9998774, z: 1.0003676}
+    - name: thumb2_R
+      parentName: thumb1_R
+      position: {x: -0.034529105, y: -0.00000000372529, z: 0.000000056810677}
+      rotation: {x: -0.07047572, y: -0.030643076, z: 0.0066741044, w: 0.9970204}
+      scale: {x: 0.9999012, y: 1.0002569, z: 0.99984634}
+    - name: thumb3_R
+      parentName: thumb2_R
+      position: {x: -0.040731326, y: -0.000000048428774, z: 0.000000039115548}
+      rotation: {x: 0.028095765, y: 0.07973155, z: -0.012746053, w: -0.9963389}
+      scale: {x: 0.99991316, y: 1.0000551, z: 1.000036}
+    - name: axe_0
+      parentName: hand_R
+      position: {x: -0.074460134, y: 0.010469373, z: -0.035366416}
+      rotation: {x: 0.548109, y: -0.6032963, z: 0.39408693, w: -0.42462417}
+      scale: {x: 0.8125015, y: 0.81281173, z: 0.8120509}
+    - name: Shoulder_L_001
+      parentName: ribs
+      position: {x: 0.040988512, y: -0.027117819, z: 0.0066392887}
+      rotation: {x: -0.117212884, y: -0.095406026, z: 0.6997771, w: 0.69819105}
+      scale: {x: 1.0000045, y: 0.9997516, z: 1.0002414}
+    - name: arm_upper_L_001
+      parentName: Shoulder_L_001
+      position: {x: -0.1612889, y: -0.00000010849908, z: 0.000000007450581}
+      rotation: {x: -0.61346406, y: -0.2849311, z: 0.24134612, w: 0.69586504}
+      scale: {x: 0.99983233, y: 0.999838, z: 1.0001075}
+    - name: arm_lower_L_001
+      parentName: arm_upper_L_001
+      position: {x: -0.28027943, y: 0.00000017508864, z: -0.000000013038516}
+      rotation: {x: -0.013887163, y: 0.0035670241, z: 0.03205932, w: 0.9993831}
+      scale: {x: 1.0002176, y: 0.9997842, z: 1.0001425}
+    - name: hand_L_001
+      parentName: arm_lower_L_001
+      position: {x: -0.34781376, y: 0.00000005401671, z: 0.00000006891787}
+      rotation: {x: 0.011607609, y: 0.009257178, z: -0.03017698, w: 0.9994343}
+      scale: {x: 0.999596, y: 1.0007336, z: 0.9996739}
+    - name: fm1_L_001
+      parentName: hand_L_001
+      position: {x: -0.078965664, y: 0.023130707, z: 0.0045503024}
+      rotation: {x: 0.7064271, y: -0.0166452, z: 0.005968195, w: 0.7075649}
+      scale: {x: 1.0000842, y: 0.9999358, z: 0.9999786}
+    - name: fm2_L_001
+      parentName: fm1_L_001
+      position: {x: -0.028623857, y: -0.000000033527613, z: 0.000000011175871}
+      rotation: {x: -0.000052034844, y: 0.0000009201465, z: 0.0000003874301, w: 1}
+      scale: {x: 1.0000184, y: 1.0000004, z: 0.99998355}
+    - name: fm3_L_001
+      parentName: fm2_L_001
+      position: {x: -0.028624155, y: -0.000000044703484, z: 0.000000011175871}
+      rotation: {x: -0.00000044703478, y: -0.00000006689731, z: -0.0000030286644,
+        w: 1}
+      scale: {x: 1.0000137, y: 1.0000029, z: 0.9999839}
+    - name: fi1_L_001
+      parentName: hand_L_001
+      position: {x: -0.07331988, y: -0.019583117, z: 0.00573924}
+      rotation: {x: 0.70492685, y: -0.012587801, z: 0.028787104, w: 0.7085839}
+      scale: {x: 1.0001141, y: 0.9998942, z: 0.99999434}
+    - name: fi2_L_001
+      parentName: fi1_L_001
+      position: {x: -0.029664405, y: -0.000000033527613, z: -0.000000033527613}
+      rotation: {x: -0.00005063412, y: -0.0000003920866, z: 0.0000023674208, w: 1}
+      scale: {x: 1.0000165, y: 1.0000004, z: 0.9999863}
+    - name: fi3_L_001
+      parentName: fi2_L_001
+      position: {x: -0.029664204, y: -0.000000022351742, z: -0.000000022351742}
+      rotation: {x: 0.0000003278109, y: 0.000000084053575, z: -0.0000046500877, w: 1}
+      scale: {x: 1.0000119, y: 1.0000029, z: 0.9999865}
+    - name: thumb1_L_001
+      parentName: hand_L_001
+      position: {x: -0.026033275, y: -0.02684247, z: 0.0065280516}
+      rotation: {x: 0.6785922, y: 0.28552657, z: 0.26199237, w: 0.623977}
+      scale: {x: 0.9997729, y: 1.0001519, z: 1.0000765}
+    - name: thumb2_L_001
+      parentName: thumb1_L_001
+      position: {x: -0.03142822, y: -0.000000033527613, z: 0.000000005587935}
+      rotation: {x: -0.014939902, y: -0.23735043, z: -0.0025336964, w: 0.9713059}
+      scale: {x: 1.0004137, y: 0.99997795, z: 0.99960965}
+    - name: thumb3_L_001
+      parentName: thumb2_L_001
+      position: {x: -0.037073374, y: -0.000000115484, z: 0}
+      rotation: {x: -0.0049009575, y: -0.08052473, z: -0.005942181, w: 0.9967229}
+      scale: {x: 1.0000488, y: 1.0000168, z: 0.9999375}
+    - name: Shoulder_R_001
+      parentName: ribs
+      position: {x: 0.04098852, y: 0.027117813, z: 0.006639301}
+      rotation: {x: -0.11721271, y: 0.09540631, z: 0.6997772, w: -0.69819105}
+      scale: {x: 0.99999547, y: 0.99975264, z: 1.0002537}
+    - name: arm_upper_R_001
+      parentName: Shoulder_R_001
+      position: {x: -0.1612889, y: 0.00000012945384, z: 0.000000039115548}
+      rotation: {x: 0.61346394, y: -0.28493103, z: -0.24134614, w: 0.6958652}
+      scale: {x: 0.99990666, y: 0.9999117, z: 1.0000151}
+    - name: arm_lower_R_001
+      parentName: arm_upper_R_001
+      position: {x: -0.28027943, y: 0.000000026077032, z: -0.00000004656613}
+      rotation: {x: 0.013887163, y: 0.003567054, z: -0.032059304, w: 0.9993831}
+      scale: {x: 1.0004236, y: 0.99979913, z: 1.0000168}
+    - name: hand_R_001
+      parentName: arm_lower_R_001
+      position: {x: -0.34781373, y: 0.000000026077032, z: -0.000000063329935}
+      rotation: {x: -0.011607606, y: 0.009257044, z: 0.030177016, w: 0.99943435}
+      scale: {x: 0.9998115, y: 1.0004247, z: 0.99976534}
+    - name: fm1_R_001
+      parentName: hand_R_001
+      position: {x: -0.0789656, y: -0.023130711, z: 0.0045502763}
+      rotation: {x: 0.7064271, y: 0.016644971, z: 0.005968104, w: -0.7075649}
+      scale: {x: 0.99996066, y: 1.0000452, z: 0.9999948}
+    - name: fm2_R_001
+      parentName: fm1_R_001
+      position: {x: -0.028623812, y: 0.000000052154064, z: 0.000000014901161}
+      rotation: {x: 0.000052064646, y: 0.00000094715483, z: -0.0000003753229, w: 1}
+      scale: {x: 0.9999579, y: 1.0000404, z: 1.0000011}
+    - name: fm3_R_001
+      parentName: fm2_R_001
+      position: {x: -0.028624207, y: 0.000000044703484, z: 0.00000005401671}
+      rotation: {x: 0.00000050663573, y: -0.000000015677298, z: 0.0000029765076, w: 1}
+      scale: {x: 0.99997824, y: 1.0000224, z: 1.0000005}
+    - name: fi1_R_001
+      parentName: hand_R_001
+      position: {x: -0.073319845, y: 0.019583134, z: 0.0057392437}
+      rotation: {x: 0.7049268, y: 0.012587602, z: 0.028787006, w: -0.70858383}
+      scale: {x: 0.99996245, y: 1.0000116, z: 1.0000257}
+    - name: fi2_R_001
+      parentName: fi1_R_001
+      position: {x: -0.029664442, y: -0.00000000372529, z: -0.000000026077032}
+      rotation: {x: 0.00005057454, y: -0.00000034179538, z: -0.0000022090971, w: 1}
+      scale: {x: 0.99996173, y: 1.0000365, z: 1.0000011}
+    - name: fi3_R_001
+      parentName: fi2_R_001
+      position: {x: -0.029664218, y: 0.000000037252903, z: 0.000000026077032}
+      rotation: {x: -0.00000011922018, y: 0.00000009243582, z: 0.000004648226, w: 1}
+      scale: {x: 0.99998146, y: 1.0000204, z: 1.0000002}
+    - name: thumb1_R_001
+      parentName: hand_R_001
+      position: {x: -0.026033208, y: 0.026842479, z: 0.0065280125}
+      rotation: {x: -0.67859197, y: 0.28552696, z: -0.26199234, w: 0.62397707}
+      scale: {x: 0.9996223, y: 1.0001428, z: 1.0002367}
+    - name: thumb2_R_001
+      parentName: thumb1_R_001
+      position: {x: -0.03142821, y: -0.00000008754432, z: -0.000000033527613}
+      rotation: {x: 0.014939573, y: -0.23735055, z: 0.0025335394, w: 0.9713059}
+      scale: {x: 0.99987185, y: 0.9999968, z: 1.0001295}
+    - name: thumb3_R_001
+      parentName: thumb2_R_001
+      position: {x: -0.037073374, y: 0.00000008754432, z: 0.000000007450581}
+      rotation: {x: -0.0049010618, y: 0.08052486, z: -0.005942284, w: -0.9967229}
+      scale: {x: 0.9999039, y: 1.0000266, z: 1.0000706}
+    - name: wingo1_R
+      parentName: ribs
+      position: {x: -0.11286335, y: 0.09474108, z: -0.28856358}
+      rotation: {x: -0.4366125, y: 0.80801016, z: -0.28494886, w: -0.27439636}
+      scale: {x: 1.0001669, y: 1.0000373, z: 0.9997975}
+    - name: wingO2_R
+      parentName: wingo1_R
+      position: {x: -0.53971523, y: 0.000000067055225, z: 0.000000063329935}
+      rotation: {x: 0.34747025, y: -0.060777694, z: -0.23676582, w: -0.9052693}
+      scale: {x: 1.0005285, y: 0.9993075, z: 1.0001657}
+    - name: wingI_R
+      parentName: ribs
+      position: {x: -0.12753585, y: 0.09078131, z: -0.28193003}
+      rotation: {x: -0.67260116, y: 0.70967567, z: -0.20303343, w: -0.052398458}
+      scale: {x: 0.39240965, y: 0.39265513, z: 0.3927384}
+    - name: leg_upper_L
+      parentName: hips
+      position: {x: -0.12110814, y: -0.17140245, z: -0.0036951602}
+      rotation: {x: -0.70088416, y: -0.09757459, z: -0.07414825, w: -0.70266825}
+      scale: {x: 0.9999516, y: 1.0000137, z: 0.9999831}
+    - name: leg_lower_L
+      parentName: leg_upper_L
+      position: {x: -0.2845874, y: 0.000000022351742, z: 0.000000052154064}
+      rotation: {x: 0.0232639, y: -0.02813467, z: -0.054986198, w: 0.99781954}
+      scale: {x: 1.0000052, y: 0.99978894, z: 1.0000961}
+    - name: leg_upper_R
+      parentName: hips
+      position: {x: -0.12110819, y: 0.17140242, z: -0.0036952496}
+      rotation: {x: -0.70088434, y: 0.097574845, z: -0.074148364, w: 0.702668}
+      scale: {x: 0.9999067, y: 1.0000882, z: 1.0000032}
+    - name: leg_lower_R
+      parentName: leg_upper_R
+      position: {x: -0.28458747, y: 0.00000007636845, z: 0.00000005401671}
+      rotation: {x: -0.0232639, y: -0.028134722, z: 0.054986164, w: 0.99781954}
+      scale: {x: 1.000217, y: 0.9997699, z: 1.0000522}
+    - name: abdomen1
+      parentName: hips
+      position: {x: -0.04917993, y: 0.000000031165882, z: 0.1199861}
+      rotation: {x: 0.000000012016242, y: -0.47925627, z: 0.00000012808594, w: -0.877675}
+      scale: {x: 1.0000595, y: 1.0000007, z: 0.9999422}
+    - name: abdomen2
+      parentName: abdomen1
+      position: {x: -0.258059, y: 0.000000004656613, z: 0.000000011175871}
+      rotation: {x: -0.000000035525485, y: 0.012812734, z: 0.00000008416215, w: 0.999918}
+      scale: {x: 1.0000187, y: 1.0000008, z: 0.9999828}
+    - name: abdomen3
+      parentName: abdomen2
+      position: {x: -0.2518293, y: 0.000000033527613, z: 0.000000009778887}
+      rotation: {x: 0.000000031757725, y: 0.044219714, z: -0.000000031936437, w: 0.9990218}
+      scale: {x: 1.000061, y: 0.99999976, z: 0.99994135}
+    - name: axe
+      parentName: kurior_animate(Clone)
+      position: {x: 1.7499114, y: -0.37674898, z: 0.8116523}
+      rotation: {x: 0.5038262, y: 0.4946517, z: -0.4924965, w: 0.5088478}
+      scale: {x: 0.029514192, y: 0.029492503, z: 0.029491354}
+    - name: kurior
+      parentName: kurior_animate(Clone)
+      position: {x: -0, y: -0.08680019, z: -0.0004103481}
+      rotation: {x: 0.10356168, y: 0, z: -0, w: 0.99462306}
+      scale: {x: 0.2615672, y: 0.2615672, z: 0.2615672}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

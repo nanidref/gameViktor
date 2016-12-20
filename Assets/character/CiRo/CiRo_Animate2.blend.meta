@@ -1,0 +1,3736 @@
+fileFormatVersion: 2
+guid: 09b142ca0b4dc4a468f2a14c13cb6218
+timeCreated: 1481444632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2nd_arm_lower_L
+    100002: 2nd_arm_lower_R
+    100004: 2nd_arm_upper_L
+    100006: 2nd_arm_upper_R
+    100008: 2nd_fi1_L
+    100010: 2nd_fi1_R
+    100012: 2nd_fi2_L
+    100014: 2nd_fi2_R
+    100016: 2nd_fi3_L
+    100018: 2nd_fi3_R
+    100020: 2nd_fm1_L
+    100022: 2nd_fm1_R
+    100024: 2nd_fm2_L
+    100026: 2nd_fm2_R
+    100028: 2nd_fm3_L
+    100030: 2nd_fm3_R
+    100032: 2nd_hand_L
+    100034: 2nd_hand_R
+    100036: 2nd_Shoulder_L
+    100038: 2nd_Shoulder_R
+    100040: angkleIK_L
+    100042: angkleIK_R
+    100044: antena1_L
+    100046: antena1_R
+    100048: antena2_L
+    100050: antena2_R
+    100052: antena3_L
+    100054: antena3_R
+    100056: antena4_L
+    100058: antena4_R
+    100060: antena5_L
+    100062: antena5_R
+    100064: antena6_L
+    100066: antena6_R
+    100068: arm_lower_L
+    100070: arm_lower_R
+    100072: arm_upper_L
+    100074: arm_upper_R
+    100076: Armature
+    100078: CiRo
+    100080: //RootNode
+    100082: cloth1
+    100084: cloth2
+    100086: cloth3
+    100088: fi1_L
+    100090: fi1_R
+    100092: fi2_L
+    100094: fi2_R
+    100096: fi3_L
+    100098: fi3_R
+    100100: fm1_L
+    100102: fm1_R
+    100104: fm2_L
+    100106: fm2_R
+    100108: fm3_L
+    100110: fm3_R
+    100112: foot_controller_L
+    100114: foot_controller_R
+    100116: foot_L
+    100118: foot_R
+    100120: hand_L
+    100122: hand_R
+    100124: head
+    100126: hips
+    100128: hips_001
+    100130: hips_002
+    100132: hips_003
+    100134: Iwing1_L
+    100136: Iwing1_R
+    100138: Iwing2_L
+    100140: Iwing2_R
+    100142: leg_lower_L
+    100144: leg_lower_R
+    100146: leg_upper_L
+    100148: leg_upper_R
+    100150: marisa_controller
+    100152: neck
+    100154: Owing_L
+    100156: Owing_R
+    100158: pelvis
+    100160: ribs
+    100162: Shoulder_L
+    100164: Shoulder_R
+    100166: spine
+    100168: toes_L
+    100170: toes_R
+    400000: 2nd_arm_lower_L
+    400002: 2nd_arm_lower_R
+    400004: 2nd_arm_upper_L
+    400006: 2nd_arm_upper_R
+    400008: 2nd_fi1_L
+    400010: 2nd_fi1_R
+    400012: 2nd_fi2_L
+    400014: 2nd_fi2_R
+    400016: 2nd_fi3_L
+    400018: 2nd_fi3_R
+    400020: 2nd_fm1_L
+    400022: 2nd_fm1_R
+    400024: 2nd_fm2_L
+    400026: 2nd_fm2_R
+    400028: 2nd_fm3_L
+    400030: 2nd_fm3_R
+    400032: 2nd_hand_L
+    400034: 2nd_hand_R
+    400036: 2nd_Shoulder_L
+    400038: 2nd_Shoulder_R
+    400040: angkleIK_L
+    400042: angkleIK_R
+    400044: antena1_L
+    400046: antena1_R
+    400048: antena2_L
+    400050: antena2_R
+    400052: antena3_L
+    400054: antena3_R
+    400056: antena4_L
+    400058: antena4_R
+    400060: antena5_L
+    400062: antena5_R
+    400064: antena6_L
+    400066: antena6_R
+    400068: arm_lower_L
+    400070: arm_lower_R
+    400072: arm_upper_L
+    400074: arm_upper_R
+    400076: Armature
+    400078: CiRo
+    400080: //RootNode
+    400082: cloth1
+    400084: cloth2
+    400086: cloth3
+    400088: fi1_L
+    400090: fi1_R
+    400092: fi2_L
+    400094: fi2_R
+    400096: fi3_L
+    400098: fi3_R
+    400100: fm1_L
+    400102: fm1_R
+    400104: fm2_L
+    400106: fm2_R
+    400108: fm3_L
+    400110: fm3_R
+    400112: foot_controller_L
+    400114: foot_controller_R
+    400116: foot_L
+    400118: foot_R
+    400120: hand_L
+    400122: hand_R
+    400124: head
+    400126: hips
+    400128: hips_001
+    400130: hips_002
+    400132: hips_003
+    400134: Iwing1_L
+    400136: Iwing1_R
+    400138: Iwing2_L
+    400140: Iwing2_R
+    400142: leg_lower_L
+    400144: leg_lower_R
+    400146: leg_upper_L
+    400148: leg_upper_R
+    400150: marisa_controller
+    400152: neck
+    400154: Owing_L
+    400156: Owing_R
+    400158: pelvis
+    400160: ribs
+    400162: Shoulder_L
+    400164: Shoulder_R
+    400166: spine
+    400168: toes_L
+    400170: toes_R
+    4300000: CiRo
+    7400000: Default Take
+    7400002: attack
+    7400004: attack_fly
+    7400006: dead
+    7400008: hit
+    7400010: idle_battle_fix
+    7400012: idle_fly
+    7400014: move_fly
+    7400016: skill_acidshot
+    7400018: walk
+    7400020: xx
+    7400022: xxx
+    7400024: xxxx
+    7400026: xxxxx
+    9500000: //RootNode
+    13700000: CiRo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: attack
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack_fly
+      takeName: attack_fly
+      firstFrame: -1
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dead
+      takeName: dead
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit
+      takeName: hit
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_battle_fix
+      takeName: idle_battle_fix
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle_fly
+      takeName: idle_fly
+      firstFrame: -1
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: move_fly
+      takeName: move_fly
+      firstFrame: -1
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: skill_acidshot
+      takeName: skill_acidshot
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: walk
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: xx
+      takeName: xx
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: xxx
+      takeName: xxx
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: xxxx
+      takeName: xxxx
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: xxxxx
+      takeName: xxxxx
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/marisa_controller
+        weight: 1
+      - path: Armature/marisa_controller/foot_controller_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/angkleIK_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_L/foot_L/toes_L
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/angkleIK_R
+        weight: 0
+      - path: Armature/marisa_controller/foot_controller_R/foot_R/toes_R
+        weight: 0
+      - path: Armature/marisa_controller/hips
+        weight: 1
+      - path: Armature/marisa_controller/hips/hips_001
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003
+        weight: 0
+      - path: Armature/marisa_controller/hips/hips_001/hips_003/hips_002
+        weight: 0
+      - path: Armature/marisa_controller/hips/leg_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_L/leg_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/leg_upper_R/leg_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/cloth1
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/cloth1/cloth2/cloth3
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fi1_L/2nd_fi2_L/2nd_fi3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_L/2nd_arm_upper_L/2nd_arm_lower_L/2nd_hand_L/2nd_fm1_L/2nd_fm2_L/2nd_fm3_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fi1_R/2nd_fi2_R/2nd_fi3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/2nd_Shoulder_R/2nd_arm_upper_R/2nd_arm_lower_R/2nd_hand_R/2nd_fm1_R/2nd_fm2_R/2nd_fm3_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_L/Iwing2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Iwing1_R/Iwing2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_L/antena2_L/antena3_L/antena4_L/antena5_L/antena6_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R
+        weight: 1
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/neck/head/antena1_R/antena2_R/antena3_R/antena4_R/antena5_R/antena6_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Owing_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fi1_L/fi2_L/fi3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_L/arm_upper_L/arm_lower_L/hand_L/fm1_L/fm2_L/fm3_L
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fi1_R/fi2_R/fi3_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R
+        weight: 0
+      - path: Armature/marisa_controller/hips/pelvis/spine/ribs/Shoulder_R/arm_upper_R/arm_lower_R/hand_R/fm1_R/fm2_R/fm3_R
+        weight: 0
+      - path: CiRo
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: marisa_controller
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_upper_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_upper_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_lower_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leg_lower_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ribs
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_arm_upper_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_arm_upper_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_arm_lower_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_arm_lower_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: antena1_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: antena1_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fi1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fi2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fi3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fm1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fm2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fm3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fi1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fi2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fi3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fm1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fm2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: 2nd_fm3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: CiRo_Animate2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: CiRo_Animate2(Clone)
+      position: {x: -0, y: 0.33127737, z: -0.013825653}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.58948797, y: 0.58948797, z: 0.58948797}
+    - name: marisa_controller
+      parentName: Armature
+      position: {x: -0, y: -0.007009056, z: -0.6379525}
+      rotation: {x: -0.0014068781, y: -0.0014069377, z: -0.70710546, w: 0.70710546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_controller_L
+      parentName: marisa_controller
+      position: {x: -0.9206601, y: -0.28749722, z: -0.49782905}
+      rotation: {x: 0.7926086, y: 0.10320311, z: -0.5959031, w: -0.07758968}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: foot_L
+      parentName: foot_controller_L
+      position: {x: -0.1280918, y: -0.025446841, z: 0.06231788}
+      rotation: {x: 0.029221442, y: -0.0042080777, z: -0.19279158, w: -0.9807955}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000006}
+    - name: toes_L
+      parentName: foot_L
+      position: {x: -0.000000052154064, y: -0.000000011175871, z: -0.000000033527613}
+      rotation: {x: -0.10374283, y: -0.6315463, z: -0.74906385, w: 0.17114338}
+      scale: {x: 1, y: 0.9999993, z: 0.9999985}
+    - name: angkleIK_L
+      parentName: foot_L
+      position: {x: -0.07553504, y: 0.000000007450581, z: -0.000000052154064}
+      rotation: {x: 0.80323696, y: -0.034622982, z: -0.5914697, w: -0.06144338}
+      scale: {x: 0.9999998, y: 1.0000004, z: 0.9999994}
+    - name: foot_controller_R
+      parentName: marisa_controller
+      position: {x: -0.92066133, y: 0.30755335, z: -0.4981565}
+      rotation: {x: 0.7926086, y: -0.10320334, z: -0.5959031, w: 0.07758991}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: foot_R
+      parentName: foot_controller_R
+      position: {x: -0.12809178, y: 0.025446784, z: 0.06231793}
+      rotation: {x: 0.02922158, y: 0.00420809, z: -0.1927917, w: 0.9807955}
+      scale: {x: 1.0000011, y: 1.0000011, z: 1.0000024}
+    - name: toes_R
+      parentName: foot_R
+      position: {x: -0.000000044703484, y: -0.000000014901161, z: 0.000000024214387}
+      rotation: {x: -0.103742726, y: 0.6315463, z: -0.7490639, w: -0.17114326}
+      scale: {x: 1.0000007, y: 1.0000005, z: 0.9999992}
+    - name: angkleIK_R
+      parentName: foot_R
+      position: {x: -0.075535044, y: -0.000000014901161, z: 0.000000013038516}
+      rotation: {x: -0.803237, y: -0.034622416, z: 0.59146965, w: -0.061443727}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: hips
+      parentName: marisa_controller
+      position: {x: -1.5965515, y: 0.01150141, z: -0.0318577}
+      rotation: {x: -0.000000029802322, y: -0.6656476, z: 0.00000010058284, w: 0.7462663}
+      scale: {x: 1.000001, y: 1.0000005, z: 0.9999937}
+    - name: pelvis
+      parentName: hips
+      position: {x: -0.11728425, y: 0.000000008866717, z: 0.00057000393}
+      rotation: {x: 0.00000005519706, y: 0.9999801, z: -0.0000002098275, w: 0.0063183}
+      scale: {x: 1.0000105, y: 1.0000005, z: 0.9993823}
+    - name: spine
+      parentName: pelvis
+      position: {x: -0.13179891, y: 0.000000008955681, z: -0.000000024863311}
+      rotation: {x: 0.00021569477, y: 0.0024838883, z: 0.000017602248, w: 0.9999969}
+      scale: {x: 0.9992926, y: 0.9999999, z: 0.99996984}
+    - name: ribs
+      parentName: spine
+      position: {x: -0.1270633, y: 0.000000010859367, z: 0.000000020477387}
+      rotation: {x: -0.00021644175, y: -0.08313049, z: -0.00000008330607, w: 0.9965387}
+      scale: {x: 1.0000144, y: 1.0000006, z: 0.99998665}
+    - name: neck
+      parentName: ribs
+      position: {x: -0.2904638, y: 0.000000022584572, z: -0.00000009276482}
+      rotation: {x: 0.00000006202024, y: -0.034025807, z: -0.00000005998479, w: 0.999421}
+      scale: {x: 1.0000011, y: 1.0000004, z: 0.99999964}
+    - name: head
+      parentName: neck
+      position: {x: -0.065799356, y: 0.000000005122274, z: 0.000000043262844}
+      rotation: {x: -0.000000042861593, y: 0.06482977, z: 0.00000007251133, w: 0.9978964}
+      scale: {x: 1.0000074, y: 1.0000011, z: 0.9999933}
+    - name: antena1_L
+      parentName: head
+      position: {x: -0.35718334, y: -0.13066964, z: 0.08856672}
+      rotation: {x: 0.6798372, y: 0.010556984, z: 0.15710199, w: 0.7162603}
+      scale: {x: 0.9999961, y: 1.0000045, z: 1.0000004}
+    - name: antena2_L
+      parentName: antena1_L
+      position: {x: -0.1201136, y: -0.000000013969839, z: 0.000000016763806}
+      rotation: {x: -0.005384175, y: 0.0006506785, z: 0.0020161348, w: 0.9999833}
+      scale: {x: 0.9999969, y: 1.000005, z: 0.99999726}
+    - name: antena3_L
+      parentName: antena2_L
+      position: {x: -0.1449362, y: -0.00000008940697, z: 0.000000018626451}
+      rotation: {x: 0.019198498, y: 0.0028716975, z: -0.003155175, w: 0.99980664}
+      scale: {x: 0.99999684, y: 1.0000029, z: 1.0000012}
+    - name: antena4_L
+      parentName: antena3_L
+      position: {x: -0.20823261, y: -9.8953e-10, z: 0.00000000372529}
+      rotation: {x: -0.0004222373, y: -0.0052591283, z: 0.0017472756, w: 0.9999846}
+      scale: {x: 1.0000021, y: 1.0000057, z: 0.99999493}
+    - name: antena5_L
+      parentName: antena4_L
+      position: {x: -0.23640601, y: -0.000000030413503, z: 0.000000016763806}
+      rotation: {x: 0.0011330227, y: 0.0018588414, z: -0.0046304236, w: 0.99998695}
+      scale: {x: 0.99999714, y: 1.0000014, z: 0.99999815}
+    - name: antena6_L
+      parentName: antena5_L
+      position: {x: -0.21396439, y: 0.000000020198058, z: 0.00000001618173}
+      rotation: {x: -0.0014239523, y: 0.00035468527, z: 0.0057633487, w: 0.99998236}
+      scale: {x: 0.99999934, y: 1.0000045, z: 0.99999857}
+    - name: antena1_R
+      parentName: head
+      position: {x: -0.35691318, y: 0.13066971, z: 0.08837828}
+      rotation: {x: -0.697574, y: 0.15675831, z: 0.014810558, w: -0.6989978}
+      scale: {x: 0.99999636, y: 1.0000044, z: 0.9999998}
+    - name: antena2_R
+      parentName: antena1_R
+      position: {x: -0.12011354, y: 0.00000005820766, z: -0.000000024214387}
+      rotation: {x: -0.0043244646, y: -0.00077819044, z: 0.0019704618, w: 0.9999884}
+      scale: {x: 0.99999696, y: 1.0000038, z: 0.99999946}
+    - name: antena3_R
+      parentName: antena2_R
+      position: {x: -0.14493622, y: -0.00000003306195, z: 0.000000005587935}
+      rotation: {x: 0.017589562, y: -0.0027536962, z: -0.0032586835, w: 0.9998362}
+      scale: {x: 0.99999696, y: 1.0000073, z: 0.9999951}
+    - name: antena4_R
+      parentName: antena3_R
+      position: {x: -0.20823248, y: -0.00000008895586, z: 0.000000011175871}
+      rotation: {x: 0.00044328894, y: 0.0052590333, z: 0.001747202, w: 0.99998456}
+      scale: {x: 1.0000026, y: 1.0000046, z: 0.9999947}
+    - name: antena5_R
+      parentName: antena4_R
+      position: {x: -0.23640598, y: 0.000000066138455, z: -0.000000011175871}
+      rotation: {x: -0.0011331929, y: -0.0018586409, z: -0.0046305913, w: 0.99998695}
+      scale: {x: 0.9999986, y: 1.0000029, z: 0.9999996}
+    - name: antena6_R
+      parentName: antena5_R
+      position: {x: -0.2139646, y: 0.0000001671724, z: -0.000000009313226}
+      rotation: {x: 0.0014241193, y: -0.0003548932, z: 0.005763492, w: 0.99998236}
+      scale: {x: 0.9999986, y: 1.0000032, z: 0.99999785}
+    - name: Owing_L
+      parentName: ribs
+      position: {x: -0.26225913, y: -0.08563884, z: -0.20591672}
+      rotation: {x: 0.26454526, y: -0.51471704, z: 0.6557731, w: 0.4848132}
+      scale: {x: 1.173459, y: 1.1730864, z: 1.1727027}
+    - name: Iwing1_L
+      parentName: ribs
+      position: {x: -0.24054016, y: -0.059645228, z: -0.14101937}
+      rotation: {x: 0.32603586, y: 0.6497932, z: 0.6274819, w: -0.27881166}
+      scale: {x: 1.0180125, y: 1.017879, z: 1.0172559}
+    - name: Iwing2_L
+      parentName: Iwing1_L
+      position: {x: -0.5186786, y: 0.00000008288771, z: 0.00000006845221}
+      rotation: {x: 0.00006255505, y: 0.009374168, z: 0.00026725224, w: 0.999956}
+      scale: {x: 1.0000018, y: 1.0000039, z: 0.99999416}
+    - name: Shoulder_L
+      parentName: ribs
+      position: {x: -0.2686469, y: -0.045908708, z: -0.020406067}
+      rotation: {x: 0.022395516, y: 0.012466916, z: 0.6572818, w: 0.7532089}
+      scale: {x: 1, y: 1.0000012, z: 0.99999905}
+    - name: arm_upper_L
+      parentName: Shoulder_L
+      position: {x: -0.105454884, y: 0.00000010244548, z: -0.00000029848889}
+      rotation: {x: -0.6653597, y: -0.14670998, z: 0.13602535, w: 0.71921474}
+      scale: {x: 0.99984974, y: 0.9998371, z: 1.0001476}
+    - name: arm_lower_L
+      parentName: arm_upper_L
+      position: {x: -0.2826287, y: -0.00000009313226, z: -0.000000007450581}
+      rotation: {x: -0.0063462234, y: 0.007829805, z: 0.035592888, w: 0.99931556}
+      scale: {x: 1.0001286, y: 1.0001667, z: 1.000083}
+    - name: hand_L
+      parentName: arm_lower_L
+      position: {x: -0.2264169, y: 0.000000013038516, z: -0.00000000372529}
+      rotation: {x: 0.016751241, y: -0.044643667, z: 0.009653324, w: 0.9988159}
+      scale: {x: 1.0001165, y: 1.0003619, z: 0.99952406}
+    - name: fm1_L
+      parentName: hand_L
+      position: {x: -0.08981564, y: 0.02760987, z: 0.00487315}
+      rotation: {x: 0.708021, y: -0.016772231, z: 0.00559871, w: 0.70597005}
+      scale: {x: 1.0000117, y: 0.9999888, z: 1.0000019}
+    - name: fm2_L
+      parentName: fm1_L
+      position: {x: -0.034130525, y: -0.000000027008355, z: -0.000000029802322}
+      rotation: {x: 0.000011593098, y: -0.00000017229459, z: 0.00000027194605, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000001}
+    - name: fm3_L
+      parentName: fm2_L
+      position: {x: -0.034130525, y: 0.000000020489097, z: 0.000000022351742}
+      rotation: {x: -0.00000023841847, y: 0.00000040604743, z: -0.0000007823152, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.9999998}
+    - name: fi1_L
+      parentName: hand_L
+      position: {x: -0.09176472, y: -0.023679279, z: 0.0074949376}
+      rotation: {x: 0.7004519, y: -0.013460509, z: 0.02838732, w: 0.7130078}
+      scale: {x: 1.0000246, y: 0.99997574, z: 0.9999996}
+    - name: fi2_L
+      parentName: fi1_L
+      position: {x: -0.035370983, y: -0.00000000372529, z: -0.000000044703484}
+      rotation: {x: 0.000016331667, y: -0.00000057741977, z: 0.0000003306194, w: 1}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000002}
+    - name: fi3_L
+      parentName: fi2_L
+      position: {x: -0.03537084, y: -0.000000014901161, z: 0.000000022351742}
+      rotation: {x: 0.00000014900972, y: 0.00000084189315, z: -0.0000013532249, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 0.9999999}
+    - name: Shoulder_R
+      parentName: ribs
+      position: {x: -0.26864693, y: 0.045908745, z: -0.020406127}
+      rotation: {x: 0.022395626, y: -0.012466853, z: 0.65728194, w: -0.7532088}
+      scale: {x: 1.0000006, y: 1.0000013, z: 0.99999917}
+    - name: arm_upper_R
+      parentName: Shoulder_R
+      position: {x: -0.10545483, y: 0.00000018067658, z: 0.00000013085082}
+      rotation: {x: 0.66535974, y: -0.1467101, z: -0.13602518, w: 0.7192147}
+      scale: {x: 0.99986184, y: 0.9998354, z: 1.0001464}
+    - name: arm_lower_R
+      parentName: arm_upper_R
+      position: {x: -0.28262874, y: 0.000000037252903, z: 0.000000037252903}
+      rotation: {x: 0.0063462234, y: 0.007829805, z: -0.035592888, w: 0.99931556}
+      scale: {x: 1.0001038, y: 1.0001562, z: 1.000081}
+    - name: hand_R
+      parentName: arm_lower_R
+      position: {x: -0.22641681, y: 0.000000067055225, z: -0.000000026077032}
+      rotation: {x: -0.016751213, y: -0.044643667, z: -0.009653299, w: 0.99881583}
+      scale: {x: 1.0001124, y: 1.0003655, z: 0.99952334}
+    - name: fm1_R
+      parentName: hand_R
+      position: {x: -0.08981567, y: -0.027609795, z: 0.0048731305}
+      rotation: {x: 0.7080211, y: 0.016772173, z: 0.005598898, w: -0.7059699}
+      scale: {x: 1.0000111, y: 0.9999884, z: 1.0000013}
+    - name: fm2_R
+      parentName: fm1_R
+      position: {x: -0.03413056, y: 9.31323e-10, z: 0.000000007450581}
+      rotation: {x: -0.000011593096, y: -0.0000002672894, z: -0.00000017043193, w: 1}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000005}
+    - name: fm3_R
+      parentName: fm2_R
+      position: {x: -0.03413044, y: 0.000000013969839, z: 0.000000022351742}
+      rotation: {x: 0.00000020861613, y: 0.00000047310286, z: 0.00000075623893, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: fi1_R
+      parentName: hand_R
+      position: {x: -0.09176469, y: 0.023679323, z: 0.007494879}
+      rotation: {x: 0.700452, y: 0.013460481, z: 0.028387504, w: -0.7130077}
+      scale: {x: 1.0000248, y: 0.999976, z: 0.9999995}
+    - name: fi2_R
+      parentName: fi1_R
+      position: {x: -0.035370864, y: 0.000000014901161, z: -0.000000037252903}
+      rotation: {x: -0.000016242258, y: -0.0000005634499, z: -0.0000003539024, w: 1}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.0000006}
+    - name: fi3_R
+      parentName: fi2_R
+      position: {x: -0.035370845, y: -0.000000014901161, z: 0.000000029802322}
+      rotation: {x: -0.00000020861616, y: 0.00000082885555, z: 0.0000012973454, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: 2nd_Shoulder_L
+      parentName: ribs
+      position: {x: -0.121269606, y: -0.07305413, z: 0.0154657345}
+      rotation: {x: 0.02527428, y: 0.008577091, z: 0.68257236, w: 0.73033047}
+      scale: {x: 1, y: 1.0000011, z: 0.99999887}
+    - name: 2nd_arm_upper_L
+      parentName: 2nd_Shoulder_L
+      position: {x: -0.07752709, y: -0.000000004656613, z: 0.00000007916242}
+      rotation: {x: -0.67798537, y: -0.04366295, z: 0.05439295, w: 0.7317587}
+      scale: {x: 1.0001386, y: 0.99978286, z: 1.0001338}
+    - name: 2nd_arm_lower_L
+      parentName: 2nd_arm_upper_L
+      position: {x: -0.2369358, y: 0.000000011408702, z: -0.000000012107193}
+      rotation: {x: -0.0065391604, y: 0.009644422, z: 0.036603257, w: 0.99926203}
+      scale: {x: 1.0000166, y: 0.9999958, z: 1.0000023}
+    - name: 2nd_hand_L
+      parentName: 2nd_arm_lower_L
+      position: {x: -0.22641689, y: 0.000000017229468, z: -0.000000013969839}
+      rotation: {x: 0.016751008, y: -0.044643633, z: 0.009653335, w: 0.99881583}
+      scale: {x: 1.0001839, y: 0.9997172, z: 1.000102}
+    - name: 2nd_fm1_L
+      parentName: 2nd_hand_L
+      position: {x: -0.08981555, y: 0.02760981, z: 0.004873149}
+      rotation: {x: 0.7081657, y: -0.012738745, z: -0.0039273486, w: 0.70592046}
+      scale: {x: 1.0000113, y: 0.9999865, z: 1.0000023}
+    - name: 2nd_fm2_L
+      parentName: 2nd_fm1_L
+      position: {x: -0.03413043, y: -0.000000001862645, z: -0.000000016763806}
+      rotation: {x: 0.000011652705, y: -0.00000021886075, z: 0.0000006165354, w: 1}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999999}
+    - name: 2nd_fm3_L
+      parentName: 2nd_fm2_L
+      position: {x: -0.034130443, y: 0.000000001862645, z: 0.000000005587935}
+      rotation: {x: -0.00000026822264, y: 0.00000041070385, z: -0.00000081118645,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999994}
+    - name: 2nd_fi1_L
+      parentName: 2nd_hand_L
+      position: {x: -0.09176469, y: -0.023679305, z: 0.0074949153}
+      rotation: {x: 0.7008908, y: -0.003991873, z: -0.0018619419, w: 0.7132551}
+      scale: {x: 1.0000283, y: 0.99997324, z: 0.9999983}
+    - name: 2nd_fi2_L
+      parentName: 2nd_fi1_L
+      position: {x: -0.03537084, y: 0.00000000372529, z: -0.000000018626451}
+      rotation: {x: 0.00001612305, y: -0.00000049453206, z: 0.00000051129587, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 0.99999976}
+    - name: 2nd_fi3_L
+      parentName: 2nd_fi2_L
+      position: {x: -0.03537081, y: -0.000000011175871, z: 0.000000011175871}
+      rotation: {x: -1.8189883e-12, y: 0.00000071895727, z: -0.0000014500799, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.99999994}
+    - name: 2nd_Shoulder_R
+      parentName: ribs
+      position: {x: -0.12126955, y: 0.07305417, z: 0.0154657075}
+      rotation: {x: 0.025274452, y: -0.008577104, z: 0.6825725, w: -0.73033047}
+      scale: {x: 1.0000001, y: 1.0000008, z: 0.9999989}
+    - name: 2nd_arm_upper_R
+      parentName: 2nd_Shoulder_R
+      position: {x: -0.07752707, y: 0.000000092200935, z: 0.000000016763806}
+      rotation: {x: 0.6779857, y: -0.04366331, z: -0.0543925, w: 0.73175836}
+      scale: {x: 1.0001572, y: 0.99978137, z: 1.000133}
+    - name: 2nd_arm_lower_R
+      parentName: 2nd_arm_upper_R
+      position: {x: -0.2369358, y: 0.00000000820728, z: 0.000000044703484}
+      rotation: {x: 0.0065390407, y: 0.00964394, z: -0.03660379, w: 0.999262}
+      scale: {x: 1.0000166, y: 0.9999945, z: 1.0000019}
+    - name: 2nd_hand_R
+      parentName: 2nd_arm_lower_R
+      position: {x: -0.2264168, y: 0.000000020489097, z: -0.000000012107193}
+      rotation: {x: -0.016751006, y: -0.044643622, z: -0.009653316, w: 0.9988159}
+      scale: {x: 1.0001942, y: 0.999702, z: 1.0001057}
+    - name: 2nd_fm1_R
+      parentName: 2nd_hand_R
+      position: {x: -0.08981577, y: -0.027609777, z: 0.0048731435}
+      rotation: {x: 0.7081657, y: 0.012738754, z: -0.003927576, w: -0.70592034}
+      scale: {x: 1.0000126, y: 0.99998724, z: 1.000003}
+    - name: 2nd_fm2_R
+      parentName: 2nd_fm1_R
+      position: {x: -0.03413045, y: 0.000000005587935, z: -0.000000013038516}
+      rotation: {x: -0.000011473887, y: -0.0000001862644, z: -0.00000060535933, w: 1}
+      scale: {x: 0.99999917, y: 0.9999995, z: 0.9999993}
+    - name: 2nd_fm3_R
+      parentName: 2nd_fm2_R
+      position: {x: -0.034130443, y: -0.000000024214387, z: 0.000000018626451}
+      rotation: {x: 0.00000014901153, y: 0.00000040697867, z: 0.00000079721633, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 0.9999997}
+    - name: 2nd_fi1_R
+      parentName: 2nd_hand_R
+      position: {x: -0.09176485, y: 0.023679342, z: 0.007494904}
+      rotation: {x: 0.7008909, y: 0.0039911154, z: -0.0018610265, w: -0.71325487}
+      scale: {x: 1.0000291, y: 0.99997354, z: 0.9999988}
+    - name: 2nd_fi2_R
+      parentName: 2nd_fi1_R
+      position: {x: -0.03537088, y: 0, z: 0.000000014901161}
+      rotation: {x: -0.000015884629, y: -0.00000056531246, z: -0.00000065844466, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999996}
+    - name: 2nd_fi3_R
+      parentName: 2nd_fi2_R
+      position: {x: -0.035370696, y: 0.00000000372529, z: -0.000000007450581}
+      rotation: {x: -0.00000017881383, y: 0.00000089125007, z: 0.0000015748799, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000002}
+    - name: Owing_R
+      parentName: ribs
+      position: {x: -0.26219073, y: 0.08563877, z: -0.2059732}
+      rotation: {x: 0.26454532, y: 0.5147173, z: 0.655773, w: -0.48481312}
+      scale: {x: 1.1734601, y: 1.1730872, z: 1.1727035}
+    - name: Iwing1_R
+      parentName: ribs
+      position: {x: -0.2405402, y: 0.05964521, z: -0.14101948}
+      rotation: {x: 0.32603574, y: -0.6497932, z: 0.6274819, w: 0.27881178}
+      scale: {x: 1.0180132, y: 1.017879, z: 1.0172559}
+    - name: Iwing2_R
+      parentName: Iwing1_R
+      position: {x: -0.5186786, y: 0.00000004353933, z: -0.00000005448237}
+      rotation: {x: -0.00006257741, y: 0.009374155, z: -0.00026726717, w: 0.999956}
+      scale: {x: 1.000002, y: 1.000004, z: 0.99999464}
+    - name: cloth1
+      parentName: pelvis
+      position: {x: -0.13433725, y: 0.00000003840978, z: 0.12258633}
+      rotation: {x: -0.00000007458538, y: -0.9994644, z: 0.000003645256, w: -0.032726474}
+      scale: {x: 0.99938244, y: 1.0000002, z: 0.99996704}
+    - name: cloth2
+      parentName: cloth1
+      position: {x: -0.19664744, y: 0.000000015281728, z: 0.000000008954437}
+      rotation: {x: -0.0000034891823, y: 0.018180296, z: 0.000000010545708, w: 0.9998347}
+      scale: {x: 0.9999962, y: 1.0000007, z: 1.0000054}
+    - name: cloth3
+      parentName: cloth2
+      position: {x: -0.18584423, y: 0.000000014291823, z: -0.000000021134866}
+      rotation: {x: 0.000000022674607, y: -0.017817061, z: 0.000000025803821, w: 0.99984133}
+      scale: {x: 1.0000033, y: 1.0000006, z: 0.9999986}
+    - name: leg_upper_L
+      parentName: hips
+      position: {x: -0.023523815, y: -0.1468312, z: -0.000680772}
+      rotation: {x: 0.69589823, y: 0.06033425, z: 0.0793682, w: 0.71118635}
+      scale: {x: 0.9999991, y: 1.0000008, z: 1.0000002}
+    - name: leg_lower_L
+      parentName: leg_upper_L
+      position: {x: -0.36323386, y: 0.000000026077032, z: -0.000000010244548}
+      rotation: {x: 0.020516453, y: -0.004471592, z: -0.0020691527, w: 0.99977744}
+      scale: {x: 1.0000011, y: 1.0000057, z: 1.0000005}
+    - name: leg_upper_R
+      parentName: hips
+      position: {x: -0.023523793, y: 0.14683121, z: -0.0006808346}
+      rotation: {x: 0.6958985, y: -0.060334288, z: 0.07936827, w: -0.71118623}
+      scale: {x: 0.99999905, y: 1.000001, z: 1.0000006}
+    - name: leg_lower_R
+      parentName: leg_upper_R
+      position: {x: -0.36323386, y: 0.000000022351742, z: 0.000000027008355}
+      rotation: {x: -0.02051645, y: -0.004471573, z: 0.0020691822, w: 0.9997774}
+      scale: {x: 1.0000019, y: 1.0000079, z: 1.0000007}
+    - name: hips_001
+      parentName: hips
+      position: {x: 0.00067220157, y: 0.000000020611862, z: 0.08718563}
+      rotation: {x: -0.000000087311626, y: 0.16976823, z: -0.000000078117246, w: 0.98548406}
+      scale: {x: 0.9999966, y: 1.0000001, z: 1.0000036}
+    - name: hips_003
+      parentName: hips_001
+      position: {x: -0.18357882, y: 0.00000001448177, z: 0.00000002980234}
+      rotation: {x: 0.00000010448934, y: -0.08475485, z: 0.000000051707246, w: 0.99640185}
+      scale: {x: 0.9999995, y: 1.0000004, z: 1.0000011}
+    - name: hips_002
+      parentName: hips_003
+      position: {x: -0.19326001, y: 0.000000014843931, z: -0.00000000158289}
+      rotation: {x: -0.00000021769132, y: -0.0547748, z: -0.000000034652064, w: 0.99849874}
+      scale: {x: 0.9999994, y: 0.99999994, z: 1.0000006}
+    - name: CiRo
+      parentName: CiRo_Animate2(Clone)
+      position: {x: -0.000049494607, y: -0.022588748, z: -0.5625738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.13285232, y: 0.13285232, z: 0.13285232}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
